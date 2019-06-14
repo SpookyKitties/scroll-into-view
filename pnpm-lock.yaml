@@ -1,3 +1,5 @@
+dependencies:
+  tslib: 1.10.0
 devDependencies:
   '@commitlint/cli': 7.6.1
   '@commitlint/config-conventional': 7.6.0
@@ -7773,7 +7775,6 @@ packages:
     resolution:
       integrity: sha512-BVwVbPJRspzNh2yfslyT1PSbl5uIk03EZlb493RKHN4qej/D06n1cEhjlOJG69oFsE7OT8XjpTUcYf6pKTLMhw==
   /tslib/1.10.0:
-    dev: true
     resolution:
       integrity: sha512-qOebF53frne81cf0S9B41ByenJ3/IuH8yJKngAX35CmiZySA0khhkovshKK+jGCaMnVomla7gVlIcc3EvKPbTQ==
   /tslib/1.9.0:
@@ -8438,6 +8439,7 @@ specifiers:
   travis-deploy-once: ^5.0.9
   ts-jest: ^23.10.2
   ts-node: ^7.0.1
+  tslib: ^1.10.0
   tslint: ^5.11.0
   tslint-config-prettier: ^1.15.0
   tslint-config-standard: ^8.0.1
